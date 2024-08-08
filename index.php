@@ -66,16 +66,7 @@ $traffic_Shield_Tre9854->run();
 <html lang="en">
   <head>
 
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16664427754">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-16664427754');
-</script>
+    
     
     <title>ShopMax &mdash; Home</title>
     <meta charset="utf-8">
